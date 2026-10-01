@@ -156,6 +156,6 @@ Ein Projekt im Praxissemester ist erst dann fertig, wenn es **ohne dich weiterla
 * **Eigenverantwortung:** Du planst und setzt Projekte selbstständig um – mit Betreuung, aber ohne fertige Vorgaben.
 * **Breites Praxiswissen:** Linux, Netzwerke, Virtualisierung, Sicherheit, Softwareentwicklung und Betrieb in einem realen System.
 * **Vorzeigbare Ergebnisse:** Projekte, die im Labor tatsächlich laufen und auf die du in späteren Bewerbungen verweisen kannst.
-* **Grundlage für mehr:** Ein Projekt aus dem Praxissemester kann zum Ausgangspunkt für eine Abschlussarbeit werden.
+* **Grundlage für mehr:** Ein Projekt aus dem Praxissemester kann zum Ausgangspunkt für eine Abschlussarbeit werden. Themenvorschläge stehen in [SmartHome-Ideen](https://github.com/Michdo93/SmartHome-Ideen), mögliche Projekte im [Smart-Home-Labor-Backlog](https://github.com/Michdo93/Smart-Home-Labor-Backlog).
 
 ---

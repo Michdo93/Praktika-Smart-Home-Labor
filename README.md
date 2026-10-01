@@ -73,4 +73,7 @@ Damit all das zuverlässig funktioniert, braucht es Menschen, die das Labor **be
 
 Viel Hintergrundwissen für die Arbeit im Labor – Linux, SSH, Zertifikate, MQTT, Ansible, Backups, Debugging, Design Pattern und mehr – ist im Kompendium **[Informatik](https://github.com/Michdo93/Informatik)** gesammelt. Es ist ausdrücklich auch zur **Vorbereitung** auf eine Tätigkeit im Labor gedacht.
 
+* Welche Vorhaben im Labor gerade offen sind – und welche sich für Hiwis, Praxissemester oder Studienprojekte eignen –, steht im **[Smart-Home-Labor-Backlog](https://github.com/Michdo93/Smart-Home-Labor-Backlog)**.
+* Ausgearbeitete Themen für **Abschlussarbeiten** (z. B. Chatbot, Sprachassistent, AR-Steuerung, Zustandsvorhersage) findest du in **[SmartHome-Ideen](https://github.com/Michdo93/SmartHome-Ideen)**.
+
 ---

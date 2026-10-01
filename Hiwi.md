@@ -16,6 +16,8 @@ Die Abkürzung **Hiwi** oder auch **HiWi** steht im universitären Umfeld für *
 
 Die Arbeitszeiten sind individuell je nach **Arbeitsvertrag** und den dort **individuell festgehaltenen Tätigkeiten**. Nicht selten kommt es vor, dass manch ein Studierender zwei oder drei Hiwi-Verträge gleichzeitig ausübt. Grob geschätzt sind die Verträge zwischen **4 Stunden die Woche** bis **16 Stunden die Woche**. Betreut man als **Hiwi** bspw. ein **Praktikum** oder **Tutorium**, dann sind es oft **4-Stunden-Verträge**. Hier wird grob gerechnet, dass man gut 90 Minuten für die Betreuung braucht, ca. 30 Minuten unmittelbar vor Ort Vorbereitungszeit hat, daheim sich auf eine Praktikumsstunde vorbereitet und noch einiges an Nachbereitungszeit benötigt, wie bspw. der Kontakt mit Studierenden per E-Mail oder Korrekturen von Abgaben.
 
+Wir verstehen die Arbeitszeiten hier als einen **Teilzeitjob**.
+
 ## Dauer einer Hiwi-Tätigkeit
 
 Üblicherweise gilt ein Arbeitsvertrag für **1 Semester (ca. 4 Monate)**. Auch hier gibt es genauere Informationen in **FELIX**.

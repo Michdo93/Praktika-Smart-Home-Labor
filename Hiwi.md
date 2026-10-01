@@ -54,5 +54,10 @@ Man kann es grob wie folgt zusammenfassen:
 * Eigene Programm-Codes die auf die openHAB REST API zugreifen
 * Konfiguration von DIY-Geräten
 * Programmierung von DIY-Geräten oder DIY-Lösungen
+* Teilnahme und Durchführung von Labor-Demos (z.B. für Schüler, Industriepartner, Politiker usw.)
+* Unterstützung bei Studienprojekte und Abschlussarbeiten
+* Systempflege und -wartung
+* Labor in arbeitsfähigem Zustand bringen, damit Studierende damit arbeiten können
+* Staubsaugen, Scheiben wischen und aufräumen vonr Labor-Demos
 * ...
 

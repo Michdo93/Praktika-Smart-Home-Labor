@@ -17,6 +17,7 @@ Im **Praxissemester** (praktischen Studiensemester) arbeitest du ein ganzes Seme
 - [Tätigkeiten im Smart Home Labor](#tätigkeiten-im-smart-home-labor)
   - [Projektdauer und Projektumfang](#projektdauer-und-projektumfang)
   - [Integration vs. Eigenentwicklung](#integration-vs-eigenentwicklung)
+  - [Beispiele für Projekte](#beispiele-für-projekte)
   - [Was zu einem Projekt dazugehört](#was-zu-einem-projekt-dazugehört)
 - [Was du mitnimmst](#was-du-mitnimmst)
 <!-- /TOC -->
@@ -137,6 +138,16 @@ Der wichtigste Unterschied zur Hiwi-Tätigkeit liegt im **Gestaltungsspielraum**
 | **Änderungen** | Kleinere Anpassungen am Code und an der Betriebssystemkonfiguration, soweit für eine fehlerfreie Integration nötig – **nichts Grundlegendes** | Entwicklung und Konfiguration weitgehend in eigener Verantwortung |
 | **Umfang** | Am Ende ca. **10–20 %** des Codes/der Konfiguration geändert | Start bei **0 %** oder Refactoring von **mehr als 50 %** |
 | **System** | Arbeitet auf vorbereiteten Systemen | Darf je nach Projekt auch selbst **Betriebssysteme flashen und installieren** |
+
+### Beispiele für Projekte
+
+Projekte für das Praxissemester ergeben sich aus dem **[Smart-Home-Labor-Backlog](https://github.com/Michdo93/Smart-Home-Labor-Backlog)**. Geeignet sind z. B.:
+
+* **Infrastruktur:** VMs in Proxmox umziehen und geeignete Dienste in LXC-Container überführen; alle Container der Docker-VM auf einheitliche Compose-Stacks umstellen.
+* **Refactoring und Migration:** Altprojekte (z. B. Pepper-Anwendungen, ältere openHAB-Erweiterungen) auf Python 3 bzw. aktuelle Rule Engines bringen.
+* **Integration:** Mehrere ungetestete Projekte (Kinect-Interaktion, ToF-Gestensteuerung, Türzähler) testen, in Betrieb nehmen und an openHAB anbinden.
+
+Welche Projekte gerade passen, besprechen wir im Bewerbungsgespräch.
 
 ### Was zu einem Projekt dazugehört
 

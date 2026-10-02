@@ -52,6 +52,7 @@ Damit all das zuverlässig funktioniert, braucht es Menschen, die das Labor **be
 | **Dauer** | Meist 1 Semester (ca. 4 Monate) | 1 Semester gemäß Studien- und Prüfungsordnung |
 | **Vergütung** | Fester Stundenlohn, monatlich ausgezahlt | In der Regel unentgeltlich (Ausnahmen möglich) |
 | **Aufgaben** | Kleinere Aufgaben (ca. 1–4 Tage), Integration bestehender Projekte | Kleinere Aufgaben zur Einarbeitung **plus** 1–2 größere eigene Projekte |
+| **Aufgaben finden** | [Backlog → Gute Einstiegsaufgaben](https://github.com/Michdo93/Smart-Home-Labor-Backlog#gute-einstiegsaufgaben) | [Backlog](https://github.com/Michdo93/Smart-Home-Labor-Backlog), z. B. Infrastruktur- oder Migrationsprojekte |
 | **Gestaltungsspielraum** | Anpassungen an bestehenden Lösungen (oft 10–20 % des Codes/der Konfiguration) | Eigenentwicklung von Grund auf oder umfangreiches Refactoring (> 50 %) |
 | **Details** | [Hiwi](Hiwi.md) | [Praxissemester](Praxissemester.md) |
 

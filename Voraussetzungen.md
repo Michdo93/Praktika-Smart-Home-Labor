@@ -179,7 +179,7 @@ Wer openHAB schon kennt, kann sofort loslegen. Wichtige Begriffe sind:
 * **Proxmox** (virtuelle Maschinen und LXC-Container)
 * **Docker** und Docker Compose
 
-📖 [Orchestrierung & Choreografie](https://github.com/Michdo93/Informatik/blob/main/Software-Konzepte/Orchestrierung%20%26%20Choreografie.md)
+📖 [Proxmox: VMs und Container](https://github.com/Michdo93/Informatik/blob/main/Virtualisierung/Proxmox.md) · [Docker & Compose betreiben](https://github.com/Michdo93/Informatik/blob/main/Virtualisierung/Docker%20%26%20Compose.md) · [Orchestrierung & Choreografie](https://github.com/Michdo93/Informatik/blob/main/Software-Konzepte/Orchestrierung%20%26%20Choreografie.md)
 
 ### Hardware und angrenzende Themen
 
@@ -196,7 +196,8 @@ Wer openHAB schon kennt, kann sofort loslegen. Wichtige Begriffe sind:
 * **NFC/RFID**
 * Erfahrungen mit **Kinect-Kameras** oder dem **Leap Motion Controller**
 * Bibliotheken wie **keyboard** oder **pygame**
-* **Sniffer** und **Wireshark** (Netzwerkverkehr und Funkprotokolle analysieren)
+* **Sniffer** und **Wireshark** (Netzwerkverkehr und Funkprotokolle analysieren) – z. B. für das [Reverse Engineering](https://github.com/Michdo93/Informatik/blob/main/Workarounds%20%26%20Hacks/Reverse%20Engineering.md) von Geräten ohne offene Schnittstelle
+* **Löten** und Aufbau einfacher Schaltungen (Sensoren, Mikrocontroller, DIY-Geräte)
 
 ---
 

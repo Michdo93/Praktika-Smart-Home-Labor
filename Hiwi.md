@@ -16,6 +16,7 @@ Als **Hiwi** unterstützt du uns neben deinem Studium beim Betrieb und bei der W
 - [Tätigkeiten im Smart Home Labor](#tätigkeiten-im-smart-home-labor)
   - [Überblick](#überblick)
   - [Typischer Umfang einer Aufgabe](#typischer-umfang-einer-aufgabe)
+  - [Wo finde ich konkrete Aufgaben?](#wo-finde-ich-konkrete-aufgaben)
   - [Ein Beispiel](#ein-beispiel)
 - [Was wir erwarten](#was-wir-erwarten)
 - [Was du mitnimmst](#was-du-mitnimmst)
@@ -106,7 +107,9 @@ Das Anleiten von **Tutorien** kann ebenfalls zu den Aufgaben einer Hilfskraft ge
 | **Regeln** | Automatisierungen in openHAB schreiben (Rules DSL, JavaScript, Python) |
 | **Eigene Software** | Programme, die auf die **openHAB REST API** zugreifen oder Geräte per MQTT anbinden |
 | **DIY-Geräte** | Eigene Lösungen mit Raspberry Pi, Arduino oder ESP konfigurieren und programmieren |
-| **Virtualisierung** | Dienste in **Proxmox** oder **Docker** betreiben |
+| **Virtualisierung** | Dienste in **Proxmox** oder **Docker** betreiben, VMs umziehen, VMs in LXC-Container überführen, Docker-Container einheitlich konfigurieren |
+| **Repository-Pflege** | Ungetestete Projekte testen, funktionierende Code-Stände identifizieren, veraltete Repositories als *deprecated* kennzeichnen und archivieren |
+| **Refactoring** | Altprojekte auf Python 3 migrieren, Konfiguration aus dem Code lösen, Anwendungen als Dienst betreiben (systemd, Gunicorn) |
 | **Betrieb und Pflege** | Updates, Backups, Fehlersuche, Systempflege und -wartung |
 | **Lehre** | Studienprojekte und Abschlussarbeiten unterstützen, das Labor für Praktika vorbereiten |
 | **Demonstrationen** | Labor-Demos für Schülerinnen und Schüler, Industriepartner, Gäste aus der Politik u. a. vorbereiten und durchführen |
@@ -117,6 +120,10 @@ Das Anleiten von **Tutorien** kann ebenfalls zu den Aufgaben einer Hilfskraft ge
 Als Hiwi bearbeitest du meist **überschaubare Aufgaben mit ca. 1 bis 4 Tagen Aufwand**. Häufig geht es darum, Projekte, die bereits fertig oder zu **80–90 % fertig** sind – etwa aus Studienprojekten oder Abschlussarbeiten –, **dauerhaft in Betrieb zu nehmen** und in das Gesamtsystem zu integrieren.
 
 Dabei nimmst du durchaus Änderungen am Code oder an der Systemkonfiguration vor, wenn sie für eine fehlerfreie Integration nötig sind. Grundlegend umgebaut wird aber nichts: Wenn am Ende **10–20 %** des Codes bzw. der Konfiguration geändert wurden, war das schon viel. Größere Eigenentwicklungen sind eher Aufgabe eines [Praxissemesters](Praxissemester.md).
+
+### Wo finde ich konkrete Aufgaben?
+
+Alle offenen Vorhaben stehen im **[Smart-Home-Labor-Backlog](https://github.com/Michdo93/Smart-Home-Labor-Backlog)** – mit Ist-Stand, Checklisten und einer Einschätzung, für wen sie sich eignen. Die **[Repository-Übersicht](https://github.com/Michdo93/Smart-Home-Labor-Backlog/blob/main/Repositories.md)** zeigt, welche Projekte integriert, noch zu integrieren, ungetestet oder veraltet sind. Erledigte Punkte hakst du dort und im jeweiligen Projekt-Repository ab.
 
 ### Ein Beispiel
 

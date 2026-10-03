@@ -21,6 +21,7 @@ Zu jedem Punkt erklären wir kurz, **wofür** wir ihn im Labor brauchen, und ver
   - [Weitere Programmiersprachen](#weitere-programmiersprachen)
   - [openHAB](#openhab)
   - [Weitere Smart-Home-Kenntnisse](#weitere-smart-home-kenntnisse)
+  - [Monitoring](#monitoring)
   - [Virtualisierung](#virtualisierung)
   - [Hardware und angrenzende Themen](#hardware-und-angrenzende-themen)
   - [Sonstiges](#sonstiges)
@@ -173,6 +174,12 @@ Wer openHAB schon kennt, kann sofort loslegen. Wichtige Begriffe sind:
   📖 [Design Pattern](https://github.com/Michdo93/Informatik/blob/main/Design%20Pattern/README.md)
 * **Smart Config** und andere Verfahren, mit denen Geräte ins WLAN gebracht werden
 * **Andere Smart-Home-Systeme** wie Home Assistant, ioBroker, FHEM oder Node-RED
+
+### Monitoring
+
+Kenntnisse im **Monitoring** (Nagios/Icinga, Grafana, Prometheus) sind nützlich, da das Labor überwacht werden soll.
+
+📖 [Monitoring & Alerting](https://github.com/Michdo93/Informatik/blob/main/Best%20Practices/Monitoring%20%26%20Alerting.md)
 
 ### Virtualisierung
 

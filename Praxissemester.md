@@ -94,6 +94,7 @@ Die Bewerbung wird formell bei der **Personalabteilung** eingereicht; wir leiten
 ### Wie bereitest du dich auf das Gespräch vor?
 
 * Die [Voraussetzungen](Voraussetzungen.md) durchgehen und die **Selbsteinschätzung** ehrlich beantworten.
+* Für eine spätere Abschlussarbeit: [Wissenschaftliches Arbeiten](https://github.com/Michdo93/Informatik/blob/main/Wissenschaftliches%20Arbeiten/README.md) im Kompendium.
 * Eigene Projekte erklären können: Was war die Aufgabe? Was hast du gemacht? Was würdest du heute anders machen?
 * Eigene Fragen vorbereiten – etwa zu möglichen Projekten, zur Betreuung oder zum Arbeitsalltag im Labor.
 * Ehrlich sein: Lücken sind normal. Entscheidend ist, dass du weißt, wo sie liegen, und bereit bist, sie zu schließen.
